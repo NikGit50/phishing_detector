@@ -13,7 +13,7 @@ model = joblib.load("phishing_model.pkl")
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "Nikhil10@",
+    "password": "Your_app_password",
     "database": "phishing_db",
     "port": 3306
 }
